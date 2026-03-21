@@ -3,7 +3,7 @@
 ##  Descripción
 Diseño e implementación de una red corporativa jerárquica para **Climair S.L.** El proyecto contempla la segmentación de red mediante VLANs, enrutamiento Inter-VLAN y políticas de seguridad avanzadas para una estructura de dos plantas.
 
-## 🛠️ Especificaciones Técnicas
+##  Especificaciones Técnicas
 * **Topología:** Estrella extendida con niveles de distribución y acceso.
 * **Enrutamiento:** Router-on-a-Stick distribuido en dos interfaces físicas (`Gig0/0` y `Gig0/1`).
 * **Direccionamiento:** Pools de DHCP automáticos por VLAN; direccionamiento estático para servidores.
